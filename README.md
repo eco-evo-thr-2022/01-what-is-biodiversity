@@ -2,8 +2,6 @@
 
 Click the image below to check out the video!
 
-<a href="https://www.youtube.com/watch?v=TNQEBCakHsA" target="_blank">foo</a>
-
 [![what is biodiversity](https://img.youtube.com/vi/TNQEBCakHsA/0.jpg)](https://www.youtube.com/watch?v=TNQEBCakHsA)
 
 References from the video:
