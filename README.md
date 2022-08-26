@@ -1,12 +1,8 @@
 # What is Biodiversity?
 
-Check out the video below!
+Click the image below to check out the video!
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=TNQEBCakHsA" target="_blank">foo</a>
 
 [![what is biodiversity](https://img.youtube.com/vi/TNQEBCakHsA/0.jpg)](https://www.youtube.com/watch?v=TNQEBCakHsA)
 
