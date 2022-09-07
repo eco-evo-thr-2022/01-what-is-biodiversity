@@ -12,7 +12,7 @@ References from the video:
 - white-crowned sparrow study [(Lipshutz et al 2017)](https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14002)
 - graphic design by [Arianna Kuhn](https://ariannakuhn.com/)
 
-## Discussion points
+## Discussion points from the "Issues"
 
 ### What's useful
 
@@ -38,4 +38,6 @@ References from the video:
 - How does biodiversity influence ecosystem stability?
 - How do we study single populations in the context of ecosystem biodiversity?
 
+
+## Class discussion
 
