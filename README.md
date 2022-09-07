@@ -41,3 +41,10 @@ References from the video:
 
 ## Class discussion
 
+### Discussion prompts:
+
+- We can see there's a range (e.g. a heron versus a human or genes to ecosystems)--why do we have a burning need to draw a line through it?
+- Using traits to study biodiversity: missing the forest for the trees?  How do we balance generality and specificity in modeling?
+- What are species concepts?
+- Is variation in life discrete?
+- How can we/should we abandon species categories in modeling biodiversity?
