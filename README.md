@@ -48,3 +48,13 @@ References from the video:
 - What are species concepts?
 - Is variation in life discrete?
 - How can we/should we abandon species categories in modeling biodiversity?
+
+### Follow-up resources
+
+On the topic of species concepts, [de Queiroz (2005)](https://doi.org/10.1073/pnas.0502030102) offers some good definitions and thoughts.
+
+Here are some papers about using traits: [Kearney et al. (2021)](https://doi.org/10.1111/1365-2435.13829)---thanks Eric for sharing; [McGill et al. (2006)](https://doi.org/10.1016/j.tree.2006.02.002); [Violle et al. (2007)](https://doi.org/10.1111/j.0030-1299.2007.15559.x)
+
+Here's a paper about calculating diversity from a phylogenetic perspective: .  And here's one about calculating it from a trait-based perspective: .  We'll get a lot deeper into that later in the course.
+
+Here was the original paper proposing the use of phylogenies for studying modes of assembly Webb ()---we'll also get a lot deeper into this later on.  And here's 
