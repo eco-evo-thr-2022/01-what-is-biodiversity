@@ -53,8 +53,10 @@ References from the video:
 
 On the topic of species concepts, [de Queiroz (2005)](https://doi.org/10.1073/pnas.0502030102) offers some good definitions and thoughts.
 
-Here are some papers about using traits: [Kearney et al. (2021)](https://doi.org/10.1111/1365-2435.13829)---thanks Eric for sharing; [McGill et al. (2006)](https://doi.org/10.1016/j.tree.2006.02.002); [Violle et al. (2007)](https://doi.org/10.1111/j.0030-1299.2007.15559.x)
+Here are some papers about using traits: [Kearney et al. (2021)](https://doi.org/10.1111/1365-2435.13829)---thanks Eric for sharing; [McGill et al. (2006)](https://doi.org/10.1016/j.tree.2006.02.002); [Violle et al. (2007)](https://doi.org/10.1111/j.0030-1299.2007.15559.x).
 
-Here's a paper about calculating diversity from a phylogenetic perspective: .  And here's one about calculating it from a trait-based perspective: .  We'll get a lot deeper into that later in the course.
+Here's the classic paper about calculating diversity from a phylogenetic perspective (and using it in conservation): [Faith (1992)](https://doi.org/10.1016/0006-3207(92)91201-3).  And here's one about calculating it from a trait-based perspective: .  We'll get a lot deeper into that later in the course.
 
-Here was the original paper proposing the use of phylogenies for studying modes of assembly Webb ()---we'll also get a lot deeper into this later on.  And here's 
+Here's the foundational paper proposing the use of phylogenies for studying modes of assembly [Webb et al. (2022)](https://www.jstor.org/stable/3069271
+)---we'll also get a lot deeper into this later on.  And here's some examples of how we realized the simple phylogenetic approach proposed by Webb et al. (2002) needed more nuance---especially that phylogenetic relatedness didn't neccesarily correspond to trait differences: 
+
