@@ -51,7 +51,9 @@ References from the video:
 
 ### Follow-up resources
 
-On the topic of species concepts, [de Queiroz (2005)](https://doi.org/10.1073/pnas.0502030102) offers some good definitions and thoughts.
+On the topic of species concepts, [de Queiroz (2005)](https://doi.org/10.1073/pnas.0502030102) offers some good definitions and thoughts. For one take on why species delimitations might be meaningful (i.e. encode real information about the biology of diversity) see this commentary from [Harte et al. (2013)](https://doi.org/10.1086/668821).
+
+We went into how humans use concepts from biology to justify categorizing each other into in-groups and out-groups, but we also thought it's worth noting that humans seem to have evolved to be nice to each other too, here's a paper about that: [Akçay et al. (2009)](https://doi.org/10.1073/pnas.0904357106).
 
 Here are some papers about using traits: [Kearney et al. (2021)](https://doi.org/10.1111/1365-2435.13829)---thanks Eric for sharing; [McGill et al. (2006)](https://doi.org/10.1016/j.tree.2006.02.002); [Violle et al. (2007)](https://doi.org/10.1111/j.0030-1299.2007.15559.x).
 
